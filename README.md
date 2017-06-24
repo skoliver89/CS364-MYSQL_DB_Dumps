@@ -8,10 +8,11 @@ Cod2: <br />
 * Lab 2
 
 classicmodels: <br />
+* Lab 3
 *
 
-soliver: <br />
-*
+soliver: (self-created)<br />
+* Lab 4 
 
-OliverF2017: <br />
-*
+OliverF2017: (self-created)<br />
+* Final Exam
