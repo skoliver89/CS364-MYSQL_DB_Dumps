@@ -17,6 +17,3 @@ simpleJoin: <br />
 
 soliver: (self-created)<br />
 * Lab 4 
-
-OliverF2017: (self-created)<br />
-* Final Exam
