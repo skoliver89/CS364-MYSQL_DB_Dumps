@@ -9,7 +9,8 @@ Cod2: <br />
 
 classicmodels: <br />
 * Lab 3
-*
+* Lab 5
+* Lab 6
 
 simpleJoin: <br />
 * Lab 3
